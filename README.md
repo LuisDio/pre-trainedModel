@@ -1,0 +1,1 @@
+This model prediction use VGG16 trained model prediction of Keras
